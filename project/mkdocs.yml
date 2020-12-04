@@ -40,12 +40,12 @@ nav:
         - Todo: todo.md
         - Markdown: markdown.md
     - Pre-Install:
-        - New user nstall considerations: new_user_considerations.md
-        - Leap or Tumbleweed?: distro_choice.md
-        - Full, Live  or net install?: media_choice.md
-        - Desktop Environments: desktop_choice.md
-        - Full disk install or Dual Boot: full_or_dual_boot.md
-        - Disk Partitioning: disk_partition.md
+        - New user Guide: new_user_guide.md
+        - Leap or Tumbleweed?: distribution.md
+        - Full, Live  or net install?: install_media.md
+        - Desktop Environments: desktop_environment.md
+        - Full disk install or Dual Boot: dual_boot.md
+        - Disk Partitioning: drive_partitioning.md
         - Disk Encryption: disk_encryption.md
         - Snapshots/Btrfs: btrfs.md
         - Distros for special uses: other_distros.md 
